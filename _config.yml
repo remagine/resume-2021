@@ -23,7 +23,7 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<h4>test</h4>"
+resume_header_intro: "<h4>안녕하세요. 달리기와 개발을 좋아하는 4년차 프로그래머 오택상입니다.</h4>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
