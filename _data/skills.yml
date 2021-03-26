@@ -6,10 +6,11 @@
   description: 주력으로 사용하며 가장 자신있는 언어입니다.
 
 
-- skill: PYTHON
+- skill: PYTHON & JAVASCRIPT
   icons :
     - images/icon/python.png
-  description: 서버 스크립트로 사용한 언어입니다.
+    - images/icon/javascript.png
+  description: 자주 사용해본 언어들입니다.
 
 
 - skill: SPRING & SPRING BOOT
@@ -18,10 +19,18 @@
     - images/icon/springboot.png
   description: 구동원리에 대해 깊은 고민을 해온 주력 프레임워크입니다.
 
-- skill: GRADLE & MAVEN
+
+- skill: HIBERNATE & MYBATIS
+  icons:
+    - images/icon/hibernate.png
+    - images/icon/mybatis.png
+  description: 자주 사용해본 영속성 관리 프레임워크입니다.
+
+- skill: GRADLE & MAVEN & NODE.JS
   icons :
     - images/icon/gradle.png
     - images/icon/maven.png
+    - images/icon/nodejs.png
   description: 자주 사용한 빌드 도구들입니다.
 
 - skill: ORACLE & POSTGRESQL & MSSQL
