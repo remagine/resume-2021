@@ -1,12 +1,40 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: JAVA
+  icons :
+  - images/icon/java.png
+  description: 주력으로 사용하며 가장 자신있는 언어입니다.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+
+- skill: PYTHON
+  icons :
+    - images/icon/python.png
+  description: 서버 스크립트로 사용한 언어입니다.
+
+
+- skill: SPRING & SPRING BOOT
+  icons :
+    - images/icon/spring.png
+    - images/icon/springboot.png
+  description: 구동원리에 대해 깊은 고민을 해온 주력 프레임워크입니다.
+
+- skill: GRADLE & MAVEN
+  icons :
+    - images/icon/gradle.png
+    - images/icon/maven.png
+  description: 자주 사용한 빌드 도구들입니다.
+
+- skill: ORACLE & POSTGRESQL & MSSQL
+  icons :
+    - images/icon/oracle.png
+    - images/icon/postgresql.png
+    - images/icon/mssql.png
+  description: 자주 사용해 본 RDBMS들입니다.
+
+- skill: GIT & JENKINS & JIRA
+  icons :
+    - images/icon/git.png
+    - images/icon/jenkins.png
+    - images/icon/jira.png
+  description: 자주 사용해 본 개발협업도구입니다.
+

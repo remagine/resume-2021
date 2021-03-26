@@ -144,9 +144,19 @@ h1 {
  * Address styling not present in IE 8/9.
  */
 
-mark {
+/* mark {
   background: #ff0;
   color: #000;
+} */
+
+mark {
+    padding: 2px 4px;
+    font-size: 90%;
+    color: #fff;
+    background-color: #300;
+    border-radius: 3px;
+/*     -webkit-box-shadow: inset 0 -1px 0 rgb(0 0 0 / 25%);
+    box-shadow: inset 0 -1px 0 rgb(0 0 0 / 25%); */
 }
 
 /**

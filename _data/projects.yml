@@ -1,8 +1,16 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
-
 # https://www.osulloc.com/
 - project: 오설록 커머스
+  skills:
+    - JAVA
+    - SPRING 4.X
+    - GRADLE
+    - HIBERNATE
+    - JAVASCRIPT
+    - POSTGRESQL
+    - CENTOS
+    - GIT
   role: 이롭게(백엔드 개발자)
   duration: 201606 &mdash; 201609
   url: "https://www.osulloc.com/"
@@ -10,6 +18,15 @@
 
 # 샘표
 - project: 샘표 커머스
+  skills:
+    - JAVA
+    - SPRING 4.X
+    - GRADLE
+    - HIBERNATE
+    - JAVASCRIPT
+    - POSTGRESQL
+    - CENTOS
+    - GIT
   role: 이롭게(백엔드 개발자)
   duration: 201609 &mdash; 201704
   url: "https://www.sempio.com/"
@@ -17,6 +34,15 @@
 
 # 샘표 글로벌
 - project: 샘표 커머스 글로벌
+  skills:
+    - JAVA
+    - SPRING 4.X
+    - GRADLE
+    - HIBERNATE
+    - JAVASCRIPT
+    - POSTGRESQL
+    - CENTOS
+    - GIT
   role: 이롭게(백엔드 개발자)
   duration: 201609 &mdash; 201704
   url: "https://en.sempio.com/"
@@ -25,6 +51,16 @@
 
 # impay 이관
 - project: Impay 이관
+  skills:
+    - JAVA
+    - SPRING 4.X
+    - SPRING BOOT
+    - MYBATIS
+    - MAVEN
+    - JAVASCRIPT
+    - ORACLE
+    - JENKINS
+    - GIT
   role: 페이레터(백엔드 개발자)
   duration: 201711 &mdash; 201803
   #url: "https://en.sempio.com/"
@@ -32,7 +68,55 @@
 
 #
 - project: 결제 수단 추가 작업
+  skills:
+    - JAVA
+    - SPRING 4.X
+    - SPRING BOOT
+    - MYBATIS
+    - MAVEN
+    - JAVASCRIPT
+    - ORACLE
+    - MS-SQL
+    - JENKINS
+    - GIT
   role: 페이레터(백엔드 개발자)
   duration: 201803 &mdash; 201911
   #url: "https://en.sempio.com/"
-  description: IMPAY를 통해 결제 가능한 협력사 추가 작업 <ul class="resume-item-list">    <li>삼성페이</li>    <li>SSG페이</li>    <li>SMILE페이</li>  <li>티머니</li> </ul>
+  description: IMPAY 결제 수단 협력사 추가 작업 <ul class="resume-item-list">    <li>삼성페이</li>    <li>SSG페이</li>    <li>SMILE페이</li>  <li>티머니</li> </ul>
+
+#
+- project: 가맹점 추가 작업
+  skills:
+    - JAVA
+    - SPRING 4.X
+    - SPRING BOOT
+    - MYBATIS
+    - MAVEN
+    - JAVASCRIPT
+    - ORACLE
+    - MS-SQL
+    - JENKINS
+    - GIT
+  role: 페이레터(백엔드 개발자)
+  duration: 201803 &mdash; 201911
+  #url: "https://en.sempio.com/"
+  description: IMPAY를 사용하는 가맹점 추가 작업
+
+#
+- project: 페이레터 ERP 시스템 추가 작업
+  skills:
+    - JAVA
+    - SPRING 4.X
+    - SPRING BOOT
+    - MYBATIS
+    - MAVEN
+    - JAVASCRIPT
+    - ORACLE
+    - MS-SQL
+    - JENKINS
+    - GIT
+  role: 페이레터(백엔드 개발자)
+  duration: 201901 &mdash; 201911
+  #url: "https://en.sempio.com/"
+  description: 페이레터 ERP 시스템 추가 작업 <ul class="resume-item-list">  <li>가맹점 정산 이력 관리</li>    <li>정산금액 전송 관리</li>  <li>매출 집계</li>  </ul>
+
