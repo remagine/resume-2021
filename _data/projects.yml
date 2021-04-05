@@ -82,7 +82,7 @@
   role: 페이레터(백엔드 개발자)
   duration: 201803 &mdash; 201911
   #url: "https://en.sempio.com/"
-  description: IMPAY 결제 수단 협력사 추가 작업 <ul class="resume-item-list">    <li>삼성페이</li>    <li>SSG페이</li>    <li>SMILE페이</li>  <li>티머니</li> </ul>
+  description: IMPAY 결제 수단 협력사 추가 작업 결<ul class="resume-item-list">    <li>삼성페이</li>    <li>SSG페이</li>    <li>SMILE페이</li>  <li>티머니</li> </ul>
 
 #
 - project: 가맹점 추가 작업
@@ -100,7 +100,7 @@
   role: 페이레터(백엔드 개발자)
   duration: 201803 &mdash; 201911
   #url: "https://en.sempio.com/"
-  description: IMPAY를 사용하는 가맹점 추가 작업
+  description: IMPAY를 사용하는 가맹점 추가 작업. <ul class="resume-item-list">    <li>가맹점 개발 이슈 해결</li>  <li>거래 대사 배치 추가</li> <li>서버 방화벽 추가 작업</li> </ul>
 
 #
 - project: 페이레터 ERP 시스템 추가 작업
