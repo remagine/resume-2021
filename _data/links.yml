@@ -1,8 +1,6 @@
 # links
 - url: "https://remagine.tistory.com/"
   description: 티스토리 블로그
-- url: "https://blog.naver.com/remagine"
-  description: 네이버 블로그
 - url: "https://github.com/remagine/addressApi"
   description: 주소 검색 api
 - url: "https://github.com/remagine/webNovel"
