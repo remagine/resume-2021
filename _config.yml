@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "HI. I AM TAEK SANG OH"
-resume_title:                   "달리는 개발자"
+resume_title:                   "Remagine | 효율주의 개발자"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "remagine@naver.com"
@@ -23,7 +23,9 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<h4>안녕하세요. 달리기와 개발을 좋아하는 4년차 프로그래머 오택상입니다.</h4>"
+resume_header_intro: "<p>4년차 개발자로 웹 커머스 개발과 대형 결제 서비스를 운영하였습니다. 주로 웹 서비스를 개발하였으며 필요에 따라 관계사와의 커뮤니케이션도 담당하였습니다.</p>     <p>이롭게에서는 브랜드 사이트와 커머스 사이트 구축을 담당하였습니다. 3개의 프로젝트를 팀원으로 참가하였고, 1개의 프로젝트를 책임지고 마무리하였습니다. 페이레터에서는 대규모 결제서비스와 정산서비스의 운영을 담당하였습니다. 휴대폰 원천 PG 사업 이관에 참여하였고, 이관 후 운영팀에서 근무하였습니다.</p>                      <p>도메인 지식의 습득과 이해가 빠르고, 효율적인 코드를 추구합니다. DRY원칙을 지향하고, 운영업무 자동화와 로그 시스템 구축경험이 있습니다.가독성 좋은 자바코드 작성과 대규모 조회 쿼리 작성에 능합니다.</p>"
+
+
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -40,7 +42,7 @@ resume_section_skills:          true
 resume_section_recognition:     false
 resume_section_links:           true
 resume_section_associations:    false
-resume_section_interests:       true
+resume_section_interests:       false
 
 
 # Resume social links
