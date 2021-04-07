@@ -46,7 +46,7 @@
   role: 이롭게(백엔드 개발자)
   duration: 201609 &mdash; 201704
   url: "https://en.sempio.com/"
-  description: 처음으로 혼자서 담당한 프로젝트로 중국,미국,스페인 글로벌 사이트 구축을 담당
+  description: 처음으로 혼자서 담당한 프로젝트로 중국,미국,스페인 글로벌 사이트 구축을 담당. 브랜드 소개 및 커머스 구축. 운영을 위한 백오피스 개발
 
 
 # impay 이관
@@ -64,7 +64,7 @@
   role: 페이레터(백엔드 개발자)
   duration: 201711 &mdash; 201803
   #url: "https://en.sempio.com/"
-  description: SK 휴대폰 원천 PG impay서비스를 페이레터로 이관하는 작업.
+  description: SK 휴대폰 원천 PG impay서비스를 페이레터로의 이관 작업. PG 사업 전반 이해. 소스코드와 서버 이전작업. 무중단 결제 서비스 제공
 
 #
 - project: 결제 수단 추가 작업
@@ -100,7 +100,7 @@
   role: 페이레터(백엔드 개발자)
   duration: 201803 &mdash; 201911
   #url: "https://en.sempio.com/"
-  description: IMPAY를 사용하는 가맹점 추가 작업
+  description: IMPAY를 사용하는 가맹점 추가 작업. <ul class="resume-item-list">    <li>가맹점 개발 이슈 해결</li>  <li>거래 대사 배치 추가</li> <li>서버 방화벽 추가 작업</li> </ul>
 
 #
 - project: 페이레터 ERP 시스템 추가 작업

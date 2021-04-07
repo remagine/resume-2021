@@ -3,47 +3,48 @@
 - skill: JAVA
   icons :
   - images/icon/java.png
-  description: 주력으로 사용하며 가장 자신있는 언어입니다.
+  description: 가장 자신있는 언어로 1.8 이후 추가된 함수형 프로그래밍을 좋아합니다. 메서드와 클래스가 일급객체로 변화된 자바는 더 가독성이 좋고, 유연한 코딩이 가능하게 해주었습니다.
+
 
 
 - skill: PYTHON & JAVASCRIPT
   icons :
     - images/icon/python.png
     - images/icon/javascript.png
-  description: 자주 사용해본 언어들입니다.
+  description: 자주 사용해본 인터프리트 언어들입니다. 파이썬은 빠르게 테스트할 수 있는 가벼운 동작들을 손쉽게 적용할 수 있어 서버 스크립트 자주 사용하였습니다. 로또한 자바스크립트는 제이쿼리부터 ecma스크립트까지 다양하게 접해보았습니다.
 
 
 - skill: SPRING & SPRING BOOT
   icons :
     - images/icon/spring.png
     - images/icon/springboot.png
-  description: 구동원리에 대해 깊은 고민을 해온 주력 프레임워크입니다.
+  description: 구동원리에 대해 깊은 고민을 해온 주력 프레임워크입니다. 숨겨진 스프링 구동원리에 대해 깊이 탐구해왔으며, 단순히 사용하는 것이 아닌 이해를 하고 사용해 왔습니다.
 
 
 - skill: HIBERNATE & MYBATIS
   icons:
     - images/icon/hibernate.png
     - images/icon/mybatis.png
-  description: 자주 사용해본 영속성 관리 프레임워크입니다.
+  description: 자주 사용해본 영속성 관리 프레임워크입니다. oop 프로그래밍을 db에서도 적용할 수 있도록 도와주는 프레임워크로 작동 원리를 스스로 공부하며 장단점을 체득하였습니다.
 
 - skill: GRADLE & MAVEN & NODE.JS
   icons :
     - images/icon/gradle.png
     - images/icon/maven.png
     - images/icon/nodejs.png
-  description: 자주 사용한 빌드 도구들입니다.
+  description: 자주 사용한 빌드 도구들입니다. 사내 메이븐 서버와 외부 메이븐 서버 모두 사용해 보았고, 의존성 문제로 빌드 오류를 자주 해결한 경험이 있습니다.
 
 - skill: ORACLE & POSTGRESQL & MSSQL
   icons :
     - images/icon/oracle.png
     - images/icon/postgresql.png
     - images/icon/mssql.png
-  description: 자주 사용해 본 RDBMS들입니다.
+  description: 자주 사용해 본 RDBMS들입니다. 복잡한 정산쿼리부터 간단한 조회쿼리까지 사용해보았습니다. 대용량 배치 프로그램을 각 dbms에서 사용해보았으며, sql 작성은 자신있는 분야 중 하나 입니다.
 
 - skill: GIT & JENKINS & JIRA
   icons :
     - images/icon/git.png
     - images/icon/jenkins.png
     - images/icon/jira.png
-  description: 자주 사용해 본 개발협업도구입니다.
+  description: 자주 사용해 본 개발협업도구입니다. Git flow에 대해 잘 이해하고 있으며, 사내 Git 설치 및 운영을 담당해 보았습니다. 내부적으로 협업도구 사용교육을 진행해 보았습니다.
 
