@@ -5,6 +5,9 @@
 - url: "https://github.com/remagine/addressApi"
   title : 주소 검색 api.
   description:  우체국 주소 데이터 가공부터 DB 입력까지 서버스크립트 자동화.
+- url: "https://github.com/remagine/dcbot"
+  title: 자동 글쓰기 봇
+  description: 자바 스크립트 및 헤드리스 브라우저를 활용하여 자동 글쓰기 봇 제작.
 - url: "https://github.com/remagine/webNovel"
   title : 토이 프로젝트.
   description:  웹소설를 주제로 커뮤니티 사이트 제작.

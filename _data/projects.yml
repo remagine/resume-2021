@@ -14,7 +14,7 @@
   role: 이롭게(백엔드 개발자)
   duration: 201606 &mdash; 201609
   url: "https://www.osulloc.com/"
-  description: 첫 프로젝트로 로그인과 배송지 관리를 개발
+  description: 첫 프로젝트로 로그인과 배송지 관리를 개발. 웹어워드 대상 수상
 
 # 샘표
 - project: 샘표 커머스
@@ -30,7 +30,7 @@
   role: 이롭게(백엔드 개발자)
   duration: 201609 &mdash; 201704
   url: "https://www.sempio.com/"
-  description: 새로운 샘표 브랜드 및 커머스 사이트 구축. 사수와 함께 주 담당자로 투입된 첫 프로젝트
+  description: 새로운 샘표 브랜드 및 커머스 사이트 구축. 사수와 함께 주 담당자로 투입된 첫 프로젝트. 웹어워드 대상 수상
 
 # 샘표 글로벌
 - project: 샘표 커머스 글로벌
@@ -64,7 +64,7 @@
   role: 페이레터(백엔드 개발자)
   duration: 201711 &mdash; 201803
   #url: "https://en.sempio.com/"
-  description: SK 휴대폰 원천 PG impay서비스를 페이레터로의 이관 작업. PG 사업 전반 이해. 소스코드와 서버 이전작업. 무중단 결제 서비스 제공
+  description: SK 휴대폰 원천 PG impay서비스를 페이레터로의 이관 작업. PG 사업 전반 이해. 소스코드와 서버 이전작업. 무중단 결제 서비스 제공. 이관 이후 매출은 200% 이상, 최대 동시접속자는 300% 이상 증가하였습니다.
 
 #
 - project: 결제 수단 추가 작업
