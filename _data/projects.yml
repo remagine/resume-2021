@@ -120,3 +120,17 @@
   #url: "https://en.sempio.com/"
   description: 페이레터 ERP 시스템 추가 작업 <ul class="resume-item-list">  <li>가맹점 정산 이력 관리</li>    <li>정산금액 전송 관리</li>  <li>매출 집계</li>  </ul>
 
+- project: 프리로스
+  skills:
+    - JAVA
+    - SPRING 5.X
+    - MYBATIS
+    - MAVEN
+    - JAVASCRIPT
+    - MY-SQL
+    - JENKINS
+    - GIT
+  role: 개발팀장
+  duration: 202105 &mdash;
+  url: "https://www.priros.com"
+  description: 등기 전문 플랫폼 프리로스 <ul class="resume-item-list">  <li>등기관련 업무 플랫폼</li>  <li>카카오뱅크 주택담보대출 등기 업무 협약</li>  <li>케이뱅크 주택담보대출 등기 업무 협약</li>  <li>경남은행 주택담보대출 등기 업무 협약</li></ul>
