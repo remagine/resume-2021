@@ -11,7 +11,7 @@
   icons :
     - images/icon/python.png
     - images/icon/javascript.png
-  description: 어느정도 할 줄 압니다.
+  description: 프로젝트에서 사용할 메소드 작성에 익숙합니다.
 
 
 - skill: SPRING & SPRING BOOT
@@ -25,14 +25,14 @@
   icons:
     - images/icon/hibernate.png
     - images/icon/mybatis.png
-  description: 둘 다 장단이 있고 좋아합니다.
+  description: 두 기능 모두 장단이 있습니다. 익숙해지면 생산성이 더 높은 것은 하이버네이트라고 봅니다.
 
 - skill: GRADLE & MAVEN & NODE.JS
   icons :
     - images/icon/gradle.png
     - images/icon/maven.png
     - images/icon/nodejs.png
-  description: 다 사용해본 경험이 있습니다.
+  description: 모두 사용해본 툴이고 익숙합니다
 
 - skill: ORACLE & POSTGRESQL & MSSQL
   icons :
