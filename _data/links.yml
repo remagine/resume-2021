@@ -1,17 +1,17 @@
 # links
 - url: "/resume-2021/file/resume_20221031.pdf"
-  title : PDF 형식의 이력서
+  title : PDF 형식의 이력서 [2022]
   description:  정규형식 이력서
 - url: "https://remagine.tistory.com/"
-  title : 티스토리 블로그.
+  title : 티스토리 블로그 [2017]
   description:  스터디 및 업무의 기록.
 - url: "https://github.com/remagine/addressApi"
-  title : 주소 검색 api.
+  title : 주소 검색 api [2017]
   description:  우체국 주소 데이터 가공부터 DB 입력까지 서버스크립트 자동화.
 - url: "https://github.com/remagine/dcbot"
-  title: 자동 글쓰기 봇
+  title: 자동 글쓰기 봇 [2020]
   description: 자바 스크립트 및 헤드리스 브라우저를 활용하여 자동 글쓰기 봇 제작.
 - url: "https://github.com/remagine/webNovel"
-  title : 토이 프로젝트.
+  title : 토이 프로젝트 [2017]
   description:  웹소설를 주제로 커뮤니티 사이트 제작.
 
