@@ -39,7 +39,7 @@
     - images/icon/oracle.png
     - images/icon/postgresql.png
     - images/icon/mssql.png
-  description: sqld 자격증이 있고, 통계관련 쿼리 작성가능합니다. 쿼리 속도 개선 경험이 있으나 인덱싱 정도입니다.
+  description: sqld 자격증이 있고, 통계관련 쿼리 작성가능합니다. 쿼리 속도 개선 경험이 있으나 실행계획 확인 후 인덱싱 개선 정도 입니다.  
 
 - skill: GIT & JENKINS & JIRA
   icons :
