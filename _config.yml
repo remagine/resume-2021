@@ -11,10 +11,10 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "HI. I AM TAEK SANG OH"
-resume_title:                   "Remagine | 알아서 잘 함"
+resume_title:                   "Remagine | 주도적으로 일합니다."
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "remagine@naver.com"
+resume_contact_email:           "ots2319@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "555-7334"
